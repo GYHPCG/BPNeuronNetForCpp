@@ -1,0 +1,9 @@
+﻿  BPNeuronNetwork.cpp
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\BPNeuronNet.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\NeuronUtils.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\Image.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\MouseDraw.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\Features.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\BPNeuronNetwork.cpp(14,26): error C2760: 语法错误: 此处出现意外的“字符串”；应为“类型说明符”
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\BPNeuronNetwork.cpp(14,26): error C2059: 语法错误:“字符串”
+E:\workspace\gzu\2024\ML\last\BPNeuronNetWork\BPNeuronNetwork\BPNeuronNetwork.cpp(62,61): error C2065: “TRAIN_IMAGES_URL”: 未声明的标识符
